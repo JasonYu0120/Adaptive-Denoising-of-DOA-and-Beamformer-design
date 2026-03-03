@@ -13,5 +13,5 @@ Obtain DOA of signal and interference from raw data and design an adaptive beamf
  -- LCMV beamformer is adopted to null the interference\
  -- Sample matrix inversion to estimate the correlation matrix
 * Advantages\
- -- low complexity, iterativative and real time beamformer
+ -- Simple, iterativative and real time beamformer
 
